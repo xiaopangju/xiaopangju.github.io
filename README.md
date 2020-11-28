@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xiaopangju/xiaopangju.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaopangju/xiaopangju.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 欢迎访问我用 Github Pages 服务搭建的网站
+我将在这里分享 **一些** 东西。
+## 一篇随便写的文章
+很多年以前，在英语老师的第一节英语课上，她告诉我们：“英语是国际上最通用的语言。”
+我很不理解，被英语纠缠，迷惑于语法与拼写之间。
+在一个暑假，阅读了大量英语文章之后，意会了英语的重要性。
+成为一名半吊子译者，为人们带来幸福，带来使用自己母语的快乐。
+而那译者，终日蜷缩在贡献者名单里，永不出声。
+### 自己对这篇文章的评价
+个人认为最后一句写的有些意思。因为我所帮助志愿翻译的游戏在国内有破 解 版，总感觉这是藐视译者和开发者劳动成果的行为，也很少会有人去看贡献者列表（我除外，我在翻译之前就看过贡献者列表了，感觉那些很厉害），所以即兴写了最后一句。
